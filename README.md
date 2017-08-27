@@ -1,5 +1,5 @@
-# Simple_compiler
-This is a simulated compiler for compiling and running a set of "GUI" instruction. I will call this language "J-GUI" i.e the set of instuctions targeted by this compiler.
+# GUI_Compiler
+This is a project on creating a programming language and its own compiler. In this case thE compiler compiles and runs an instruction set (the programming language) for creating a Graphic User Interface; GUI. I will call this language "J-GUI" i.e the set of instuctions targeted by this compiler. The 'J' in J-GUI stands for "Java" since this language and its compiler are written in Java. 
 
 ## J-GUI Syntax via BNF                                                                                                              
 J-GUI, like any other language, has specific Syntax and Tokens. This syntax is described using BNF as follows                        
