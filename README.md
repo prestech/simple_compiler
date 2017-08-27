@@ -77,7 +77,7 @@ Window  " Test Program " (500, 500) Layout Flow :
  
  #### Description of Source Code 
  
-Ignore any information after the forward slashes “//” for there are used to explain the source code below. Note that this program cannot process the “//” as a comment specifier so do not copy and paste this code with removing all comments.
+Ignore any information after the forward slashes “//” for there are used to explain the source code below. Note that this program cannot process the “//” as a comment specifier so do not copy and paste this code without removing all comments.
 
 <b>[Window "Test Program" (500, 500) Layout Flow:]</b> creates a  500 x 500 window named “Test Program	<br></br>
 <b>[Textfield 20;] </b> adds a text field  to the window, with sze 20 <br></br>
